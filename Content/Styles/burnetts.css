@@ -270,7 +270,7 @@ section {
       top: auto; } }
   @media only screen and (max-width: 575px) {
     .copy-wrapper .section-bottle {
-      bottom: calc(100% - 150vw); } }
+      bottom: calc(100% - 120vw); } }
 
 .video-wrapper {
   position: relative;
